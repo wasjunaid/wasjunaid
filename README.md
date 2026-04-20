@@ -1,12 +1,13 @@
 ## Junaid Ahmed
 
-wasjunaidahmed@gmail.com
-[github.com/wasjunaid](https://github.com/wasjunaid)
-[linkedin.com/in/wasjunaid](https://linkedin.com/in/wasjunaid)
+- wasjunaidahmed@gmail.com
+- [github.com/wasjunaid](https://github.com/wasjunaid)
+- [linkedin.com/in/wasjunaid](https://linkedin.com/in/wasjunaid)
 
 ---
+### Skills
 
-**AI/ML:** Generative AI, LLMs, Agentic AI, RAG, Fine-Tuning (CPT, SFT, RLHF, RLVR), LoRA/QLoRA, PyTorch, Tensorflow 
+**AI/ML:** Generative AI, LLMs, Agentic AI, RAG, Fine-Tuning (CPT, SFT, RLHF, RLVR), LoRA/QLoRA, PyTorch
 **Mobile/Web:** Flutter, React Native, React, Node.js, FastAPI  
 **Languages:** Python, JavaScript, TypeScript, Dart, C++  
 **Databases:** PostgreSQL, MongoDB, Firebase, Supabase, ChromaDB, FAISS
@@ -25,5 +26,9 @@ wasjunaidahmed@gmail.com
 
 ---
 
-### Certifications
-ML Specialization (Coursera) · HEC Generative AI — Top Performer · Code Air 2.0 — 2nd Place · THM Pre Security · THM Intro to Cyber Security
+### Certifications & achievements
+- ML Specialization (Coursera) 
+- HEC Generative AI — Top Performer 
+- Code Air 2.0 — 2nd Place 
+- THM Pre Security 
+- THM Intro to Cyber Security
