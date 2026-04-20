@@ -1,6 +1,8 @@
 ## Junaid Ahmed
 
-📧 wasjunaidahmed@gmail.com · [github.com/wasjunaid](https://github.com/wasjunaid) · [linkedin.com/in/wasjunaid](https://linkedin.com/in/wasjunaid)
+wasjunaidahmed@gmail.com
+[github.com/wasjunaid](https://github.com/wasjunaid)
+[linkedin.com/in/wasjunaid](https://linkedin.com/in/wasjunaid)
 
 ---
 
