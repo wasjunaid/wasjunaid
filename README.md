@@ -26,6 +26,7 @@ Passionate about **AI/ML** with both theoretical understanding and **Applied AI*
 - **Fine-Tuning** *(Unsloth, LoRA, QLoRA, Hugging Face)*
   - **CPT** — Domain-adapted SmolLM-135M on SEC 10-K filings using LoRA/QLoRA; resolved catastrophic forgetting by mixing general and financial data during training
   - **SFT** — Shaped instruction-following behavior using Alpaca prompt template on financial-qa-10k; merged CPT adapter before layering SFT; applied sequence packing, loss masking, and EOS tokens
+  - **RLHF** — Applied PPO-based optimization using TRL to align model outputs with human preference; trained a Reward Model as a proxy judge on chosen/rejected pairs; optimized policy against a frozen SFT reference model with KL penalty to stabilize updates and prevent reward hacking
 
 #### Mobile / Web Projects:
 
