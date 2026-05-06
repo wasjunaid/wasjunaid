@@ -32,7 +32,7 @@ Passionate about **AI/ML** with both theoretical understanding and **Applied AI*
 
 - **Final Year Project** *(Blockchain, AI, React, Node.js, PostgreSQL)* — Ethereum-based medical EHR system with patient-controlled data access and an integrated AI medical coding module
 - **MovieFlix** *(React Native, Expo)* — Movie discovery app with TMDB API integration, Expo routing, and custom UI
-- **Healthy Ways** *(Flutter, Supabase)* — Role-based medication reminder app for patients, doctors, and pharmacists
+- **Healthy Ways** *(Flutter, Supabase)* [Live at [Play Store](https://play.google.com/store/apps/details?id=com.healthyways.mobile_app) $|$ [App Store](https://apps.apple.com/us/app/healthyways-lifestyle-app/id6758870480)] — Role-based medication reminder app for patients, doctors, and pharmacists
 - **Skribbl Clone** *(Flutter, Node.js)* — Real-time multiplayer drawing game with WebSocket sync and in-game chat
 - **Islamic Application** *(Flutter)* — Feature-rich Islamic utility app with prayer times, Quran reader, Qibla compass, and Tasbih counter
 
