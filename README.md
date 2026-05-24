@@ -9,10 +9,10 @@ Passionate about **AI/ML** with both theoretical understanding and **Applied AI*
 
 ### Skills
 
-**AI/ML:** Generative AI, LLMs, Agentic AI, RAG, Fine-Tuning (CPT, SFT, RLHF, RLVR), LoRA/QLoRA, PyTorch, Tensorflow   
+**AI/ML:** Generative AI, LLMs, Agentic AI, RAG, Fine-Tuning (CPT, SFT, RLHF, RLVR), LoRA/QLoRA, RL Envs, Verifiers PyTorch, Tensorflow   
 **Mobile/Web:** Flutter, React Native, React, Node.js, FastAPI  
 **Languages:** Python, JavaScript, TypeScript, Dart, C++  
-**Databases:** PostgreSQL, MongoDB, Firebase, Supabase, ChromaDB, FAISS  
+**Databases:** PostgreSQL, MongoDB, Firebase, Supabase, ChromaDB  
 
 ---
 
