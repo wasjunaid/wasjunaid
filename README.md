@@ -9,24 +9,36 @@ Passionate about **AI/ML** with both theoretical understanding and **Applied AI*
 
 ### Skills
 
-**AI/ML:** Generative AI, LLMs, Agentic AI, RAG, Fine-Tuning (CPT, SFT, RLHF, RLVR), LoRA/QLoRA, RL Envs, Verifiers PyTorch, Tensorflow   
+**AI/ML:** Generative AI Systems, LLMs, Agentic AI (voice, multi-agent, tool-based), RAG, Fine-Tuning (CPT, SFT, RLHF, RLVR), LoRA/QLoRA, RL Envs, Verifiers, Harness, Evals, Memory/Knowledge Systems, LangGraph, PyTorch, Tensorflow   
 **Mobile/Web:** Flutter, React Native, React, Node.js, FastAPI  
-**Languages:** Python, JavaScript, TypeScript, Dart, C++  
-**Databases:** PostgreSQL, MongoDB, Firebase, Supabase, ChromaDB  
+**Languages:** Python, JavaScript, TypeScript, Dart, C++, SQL, Bash  
+**Databases:** PostgreSQL, MongoDB, Firebase, Supabase, MySQL, ChromaDB  
+
+---
+
+### Experience
+
+- **AI Engineer** @ BitBop *(Aug 2026 -- Present, Islamabad, PK)* — Architecting and delivering production-grade AI systems for education technology — including intelligent timetable generation, LMS automation, and AI-driven exam creation workflows — owning the full pipeline from LLM integration and agent design through system optimization and deployment
+- **AI Intern** @ App In Snap *(June 2026 -- July 2026, Islamabad, PK)* — Architected and shipped production AI systems including a voice banking assistant and a multi-platform social media automation product, owning the full pipeline from LLM integration and agent design through infrastructure optimization and deployment
+- **React Native Developer** @ Tulip Tea *(June 2025 -- Sept. 2025, Islamabad, PK)*
+- **Flutter & Node.js Developer** @ 92 Devs *(June 2024 -- Sept. 2024, Islamabad, PK)*
 
 ---
 
 #### AI Projects:
 
+- **AXON -- Voice Banking Assistant** *(FastAPI, LangGraph, Groq, STT/TTS, RoBERTa)* — Built a full voice pipeline for Bank Islami: WebSocket audio stream → STT → router agent → 14 specialized action agents or chat agent, with structured JSON throughout; replaced the LLM-based router with a fine-tuned RoBERTa intent classifier and replaced LLM action agents with NER-driven entity extraction (GLiNER) to cut latency and infrastructure cost while maintaining accuracy
+- **SupportPilot -- Multi-Channel Social Media Automation Platform** *(FastAPI, LangGraph, PostgreSQL, Meta APIs)* — Centralized automation hub supporting WhatsApp, Instagram, and Facebook with multi-account management; admins can create AI agents and assign them to DMs or comment threads, configure keyword-triggered response templates, and manage all channels from a single workspace; architected a multi-tenant PostgreSQL schema supporting per-account permissions and cross-channel agent assignment; planned extension to call automation via voice agent
 - **Attention Is All You Need** *(PyTorch)* — Implemented the full Transformer pipeline from scratch: tokenization, positional encoding, and Q/K/V self-attention
 - **MiniLLM** *(PyTorch)* — Trained a GPT-style LLM on Shakespeare featuring BPE, RoPE, KV cache, GQA and SwiGLU activations
-- **Coding Agent** *(Python, OpenRouter)* — Multi-agent system with ReAct reasoning loop, context summarization, and plan-then-execute planning
+- **Nexus -- Autonomous Development Agent** *(Python, OpenRouter)* — Multi-agent system with a dedicated coding agent, research agent, ReAct reasoning loop, context summarization for long task horizons, and a plan-then-execute module for structured decomposition of complex problems
 - **RAG Pipeline** *(Python, OpenRouter)* — Hybrid semantic + BM25 search, LLM-based chunking, contextual enrichment, and cross-encoder reranking
 - **Recursive Language Model** *(Python, OpenRouter)* — LLM scaffolded inside a Python REPL enabling code execution and dynamic sub-agent spawning; based on the RLM paper by Zhang & Khattab
-- **Fine-Tuning** *(Unsloth, LoRA, QLoRA, Hugging Face)*
+- **FinSight -- Financial Domain Adaptation (Fine-Tuning)** *(Unsloth, LoRA, QLoRA, Hugging Face)*
   - **CPT** — Domain-adapted SmolLM-135M on SEC 10-K filings using LoRA/QLoRA; resolved catastrophic forgetting by mixing general and financial data during training
   - **SFT** — Shaped instruction-following behavior using Alpaca prompt template on financial-qa-10k; merged CPT adapter before layering SFT; applied sequence packing, loss masking, and EOS tokens
   - **RLHF** — Applied PPO-based optimization using TRL to align model outputs with human preference; trained a Reward Model as a proxy judge on chosen/rejected pairs; optimized policy against a frozen SFT reference model with KL penalty to stabilize updates and prevent reward hacking
+  - **RLVR** — Applied GRPO with rule-based verifiable rewards (exact-match on financial QA), eliminating the learned Reward Model; used group-relative advantage estimation to stabilize policy updates
 
 #### Mobile / Web Projects:
 
